@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<collection>
+    <header>
+        <title>Colectie De Filme</title>
+        <navigation>
+            <link>Filme Vechi</link>
+            <link>Filme Noi</link>
+            <link>Top Rated</link>
+        </navigation>
+    </header>
+    <main>
+        <image src="./assets/img/movies.jpg" alt="Movies" />
+        <description>Aici poti sa gasesti o colectie mare de filme!</description>
+    </main>
+    <footer>
+        All the Movies belong to their original creators
+    </footer>
+</collection>
